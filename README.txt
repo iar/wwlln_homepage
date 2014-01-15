@@ -1,3 +1,14 @@
+WWLLN Website
+
+Content in .htm files are reproduced elsewhere with the  <!--#include file="" --> command.  In these cases edit the .htm file directly
+instead of the actual shtml file.
+
+.html files are used to redirect to the corresponding .shtml.  The .shtml allows for in line scripts such as the include command above.
+
+
+
+Base HTML5 Template created by:
+
 Halcyonic 3.1 by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -14,9 +25,6 @@ n33.co @n33co dribbble.com/n33
 
 
 Credits:
-
-	Images:
-		fotogrph (fotogrph.com)
 	
 	Other:
 		jQuery (jquery.com)
