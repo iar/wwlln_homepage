@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>One Column - Halcyonic by HTML5 UP</title>
+		<title>How It Works</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -37,54 +37,17 @@
 								<!-- Main Content -->
 									<section>
 										<header>
-											<h2>One Column</h2>
-											<h3>A generic one column layout</h3>
+											<h2>How it works</h2>
 										</header>
 										<p>
-											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam metus, congue 
-											vel suscipit ut, dignissim non risus. Vestibulum ante est, fringilla nec placerat 
-											eu, vestibulum vitae diam. Integer eget egestas eros. Duis enim erat, mollis quis 
-											lacinia eget, blandit nec ipsum. Donec vitae turpis ipsum. Aliquam mauris libero, 
-											sagittis in eleifend at, mattis imperdiet velit. Donec urna risus, rutrum molestie 
-											varius ac, lacinia sit amet augue. Nam ultrices elementum eros.
-										</p>
-										<p>
-											Sed faucibus viverra ligula, non varius magna semper vitae. Donec eu justo ut ipsum 
-											hendrerit congue nec eu risus. Cum sociis natoque penatibus et magnis dis parturient 
-											montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing 
-											egestas tempus. Cras convallis odio sit amet risus convallis porttitor. Integer 
-											vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam 
-											justo imperdiet vel. Proin nec dictum mi. Duis commodo enim non tellus interdum 
-											elit. Suspendisse fermentum adipiscing nisi, a tempor libero malesuada at. Morbi 
-											lacinia dui adipiscing risus eleifend tincidunt. Proin eu mauris eu tellus eleifend 
-											hendrerit.
-										</p>
-										<p>
-											Mauris sit amet tellus urna. In facilisis, tortor vitae ultricies egestas, odio 
-											mi rhoncus arcu, quis euismod felis felis et velit. Mauris varius consectetur erat 
-											egestas tempus. Cras convallis odio sit amet risus convallis porttitor. Integer 
-											vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam 
-											justo imperdiet vel. Proin nec dictum mi. Duis commodo enim non tellus interdum 
-											iaculis. Phasellus ultrices diam sit amet orci lacinia sed consequat dui auctor. 							
-										</p>
-										<p>
-											Sed faucibus viverra ligula, non varius magna semper vitae. Donec eu justo ut ipsum 
-											hendrerit congue nec eu risus. Cum sociis natoque penatibus et magnis dis parturient 
-											montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing 
-											egestas tempus. Cras convallis odio sit amet risus convallis porttitor. Integer 
-											vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam 
-											justo imperdiet vel. Proin nec dictum mi. Duis commodo enim non tellus interdum 
-											elit. Suspendisse fermentum adipiscing nisi, a tempor libero malesuada at. Morbi 
-											lacinia dui adipiscing risus eleifend tincidunt. Proin eu mauris eu tellus eleifend 
-											hendrerit.
-										</p>
-										<p>
-											Mauris sit amet tellus urna. In facilisis, tortor vitae ultricies egestas, odio 
-											mi rhoncus arcu, quis euismod felis felis et velit. Mauris varius consectetur erat 
-											egestas tempus. Cras convallis odio sit amet risus convallis porttitor. Integer 
-											vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam 
-											justo imperdiet vel. Proin nec dictum mi. Duis commodo enim non tellus interdum 
-											iaculis. Phasellus ultrices diam sit amet orci lacinia sed consequat dui auctor. 							
+											Each lightning stroke location requires the time of group arrival (TOGA) from a least 5 WWLLN sensors. These sensors may be several thousand km distant from the stroke. The geographical  arrangement  of the sensors is important: a lightning stroke which is enclosed by sensors is much more accurately located than one which is not so enclosed. Clearly a uniform spacing of sensors around the Earth is the ideal. Since the Earth is round, there are no edges: every lightning stroke is surrounded by sensors, but not necessarily by the sensors which sense it. Typically only about 15 to 30% of strokes detected  by one sensor are detected by 5 or more. These strokes are usually the stronger ones. Recent research indicates our detection efficiency for strokes about 30 kA is approximately 30% globally.
+                                        </p>
+                                        
+                                        <p>
+                                            To cover the whole world by sensors spaced uniformly about 1000 km apart would require roughly 500 sensors. If spaced 3000 km apart, we would need “only” around 50 to 60 sensors. Presently we have 40 WWLLN sensors, and we are in the process of expanding to 60 sensors within the next year or two. 
+                                        </p>
+                                        <p>
+                                            More information on the World Wide  Lightning Location network (WWLLN) is available from our <a href="publications.shtml">publication list</a>.						
 										</p>
 									</section>
 
