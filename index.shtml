@@ -154,7 +154,7 @@
 											<li>Whistler waves</li>
 										</ul>
                                         <p>
-                                            More research with WWLLN on the <a href="research.shtml">research page</a>.
+                                            More research with WWLLN on the <a href="research.shtml">research</a> or <a href="publications.shtml">publications</a> page.
                                         </p>
 									</section>
 
@@ -164,12 +164,14 @@
 								<!-- Box #3 -->
 									<section>
 										<header>
-											<h2>More information here</h2>
-											<h3>Subheading</h3>
+											<h2>Other WWLLN Pages</h2>
 										</header>
-										<p>
-                                            Text
-                                        </p>
+										<ul class="link-list">
+                                            <li><a href="climate.shtml">Climatology</a></li>
+                                            <li><a href="volcano.shtml">Volcano Detection</a></li>
+                                            <li><a href="spectra.shtml">VLF Spectrograms</a></li>
+                                        </ul>
+
 									</section>
 
 							</div>
