@@ -1,9 +1,4 @@
 <!DOCTYPE HTML>
-<!--
-	Halcyonic 3.1 by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 	<head>
 		<title>Halcyonic by HTML5 UP</title>
@@ -37,15 +32,15 @@
 						<div class="row">
 							<div class="6u">
 							
-								<!-- Banner Copy -->
-									<p>We do something really useful, important, and unique. Learn all about it here ...</p>
-									<a href="#" class="button-big">Go on, click me!</a>
+                                <p>Recent News</p>
+                                
+                                <!--#include file="news.htm" -->
 
 							</div>
 							<div class="6u">
 								
 								<!-- Banner Image -->
-									<a href="#" class="bordered-feature-image"><img src="images/banner.jpg" alt="" /></a>
+									<a href="#" class="bordered-feature-image"><img src="http://wwlln.net/L_plot_global_map.jpg" alt="" /></a>
 							
 							</div>
 						</div>
@@ -62,7 +57,7 @@
 							
 								<!-- Feature #1 -->
 									<section>
-										<a href="#" class="bordered-feature-image"><img src="images/pic01.jpg" alt="" /></a>
+										<a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Americas_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Americas.gif" alt="" /></a>
 										<h2>Welcome to Halcyonic</h2>
 										<p>
 											This is <strong>Halcyonic</strong>, a free site template 
@@ -77,7 +72,7 @@
 								
 								<!-- Feature #2 -->
 									<section>
-										<a href="#" class="bordered-feature-image"><img src="images/pic02.jpg" alt="" /></a>
+										<a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_EurAfrica_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_EurAfrica.gif" alt="" /></a>
 										<h2>Responsive You Say?</h2>
 										<p>
 											Yes! Halcyonic is built on the <a href="http://skeljs.org">skelJS</a>
@@ -91,7 +86,7 @@
 								
 								<!-- Feature #3 -->
 									<section>
-										<a href="#" class="bordered-feature-image"><img src="images/pic03.jpg" alt="" /></a>
+										<a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_over_Indian_Ocean_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_over_Indian_Ocean.gif" alt="" /></a>
 										<h2>License Info</h2>
 										<p>
 											Halcyonic is licensed under the <a href="http://html5up.net/license">CCA 3.0</a> license,
@@ -105,7 +100,7 @@
 								
 								<!-- Feature #4 -->
 									<section>
-										<a href="#" class="bordered-feature-image"><img src="images/pic04.jpg" alt="" /></a>
+										<a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Pacific_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Pacific.gif" alt="" /></a>
 										<h2>Volutpat etiam aliquam</h2>
 										<p>
 											Duis neque nisi, dapibus sed mattis quis, rutrum accumsan sed. Suspendisse 
