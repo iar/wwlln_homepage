@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>One Column - Halcyonic by HTML5 UP</title>
+		<title>WWLLN Data</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -37,55 +37,20 @@
 								<!-- Main Content -->
 									<section>
 										<header>
-											<h2>One Column</h2>
-											<h3>A generic one column layout</h3>
+											<h2>WWLLN Data Availability</h2>
 										</header>
 										<p>
-											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam metus, congue 
-											vel suscipit ut, dignissim non risus. Vestibulum ante est, fringilla nec placerat 
-											eu, vestibulum vitae diam. Integer eget egestas eros. Duis enim erat, mollis quis 
-											lacinia eget, blandit nec ipsum. Donec vitae turpis ipsum. Aliquam mauris libero, 
-											sagittis in eleifend at, mattis imperdiet velit. Donec urna risus, rutrum molestie 
-											varius ac, lacinia sit amet augue. Nam ultrices elementum eros.
+											WWLLN Monthly CDs containing all stroke locations over the whole world for 1 month. 
+                                            These are mailed to subscribers each month, or they may opt to download the data weekly. 
+                                            Archival data are available for sale from August 15, 2004 to the present. Our site hosts receive a free monthly subscription.
+                                        </p>
+                                        
+                                        <p>
+                                            WWLLN Data are available via internet with cadence every 10 minutes for research purposes from the University of Washington,
+                                            or with a cadence of as fast as every minute (i.e. in realtime) from our commercial reseller. 
+                                            Contact <a href="mailto:bobholz@washington.edu">Prof. Holzworth</a> for more info.						
 										</p>
-										<p>
-											Sed faucibus viverra ligula, non varius magna semper vitae. Donec eu justo ut ipsum 
-											hendrerit congue nec eu risus. Cum sociis natoque penatibus et magnis dis parturient 
-											montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing 
-											egestas tempus. Cras convallis odio sit amet risus convallis porttitor. Integer 
-											vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam 
-											justo imperdiet vel. Proin nec dictum mi. Duis commodo enim non tellus interdum 
-											elit. Suspendisse fermentum adipiscing nisi, a tempor libero malesuada at. Morbi 
-											lacinia dui adipiscing risus eleifend tincidunt. Proin eu mauris eu tellus eleifend 
-											hendrerit.
-										</p>
-										<p>
-											Mauris sit amet tellus urna. In facilisis, tortor vitae ultricies egestas, odio 
-											mi rhoncus arcu, quis euismod felis felis et velit. Mauris varius consectetur erat 
-											egestas tempus. Cras convallis odio sit amet risus convallis porttitor. Integer 
-											vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam 
-											justo imperdiet vel. Proin nec dictum mi. Duis commodo enim non tellus interdum 
-											iaculis. Phasellus ultrices diam sit amet orci lacinia sed consequat dui auctor. 							
-										</p>
-										<p>
-											Sed faucibus viverra ligula, non varius magna semper vitae. Donec eu justo ut ipsum 
-											hendrerit congue nec eu risus. Cum sociis natoque penatibus et magnis dis parturient 
-											montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing 
-											egestas tempus. Cras convallis odio sit amet risus convallis porttitor. Integer 
-											vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam 
-											justo imperdiet vel. Proin nec dictum mi. Duis commodo enim non tellus interdum 
-											elit. Suspendisse fermentum adipiscing nisi, a tempor libero malesuada at. Morbi 
-											lacinia dui adipiscing risus eleifend tincidunt. Proin eu mauris eu tellus eleifend 
-											hendrerit.
-										</p>
-										<p>
-											Mauris sit amet tellus urna. In facilisis, tortor vitae ultricies egestas, odio 
-											mi rhoncus arcu, quis euismod felis felis et velit. Mauris varius consectetur erat 
-											egestas tempus. Cras convallis odio sit amet risus convallis porttitor. Integer 
-											vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam 
-											justo imperdiet vel. Proin nec dictum mi. Duis commodo enim non tellus interdum 
-											iaculis. Phasellus ultrices diam sit amet orci lacinia sed consequat dui auctor. 							
-										</p>
+                                        
 									</section>
 
 							</div>
