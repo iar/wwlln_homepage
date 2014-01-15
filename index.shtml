@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Halcyonic by HTML5 UP</title>
+		<title>World Wide Lightning Location Network</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -53,62 +53,69 @@
 				<div id="features">
 					<div class="container">
 						<div class="row">
-							<div class="3u">
+							<div class="6u">
 							
+                                <div class="row">
+                                
+                                    <div class="6u">
+                                        <section>
+                                            <a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Americas_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Americas.gif" alt="" /></a>
+                                        
+                                        </section>
+                                    </div>
+                                    <div class="6u">
+                                        <section>
+                                        	<a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_EurAfrica_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_EurAfrica.gif" alt="" /></a>
+                                        </section>
+                                    
+                                    </div>
+                                
+                                </div>
 								<!-- Feature #1 -->
 									<section>
-										<a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Americas_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Americas.gif" alt="" /></a>
-										<h2>Welcome to Halcyonic</h2>
+										
+										<h2>Welcome to WWLLN</h2>
 										<p>
-											This is <strong>Halcyonic</strong>, a free site template 
-											by <a href="http://n33.co/">AJ</a> for
-											<a href="http://html5up.net">HTML5 UP</a>. It's responsive,
-											built on HTML5 + CSS3, and includes 5 unique page layouts.
+											The World Wide Lightning Location Network is operated by the University of Washington in Seattle with lightning location sensors at VLF (3-30 kHz). 
+                                            Most ground-based observations in the VLF band are dominated by impulsive signals from lightning discharges called “sferics”. 
+                                            Significant radiated electromagnetic power exists from a few hertz to several hundred megahertz, with the bulk of the energy radiated at VLF.
 										</p>
 									</section>
 
 							</div>
-							<div class="3u">
-								
-								<!-- Feature #2 -->
+                            
+                            
+                            <div class="6u">
+							
+                                <div class="row">
+                                
+                                    <div class="6u">
+                                        <section>
+                                            <a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_over_Indian_Ocean_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_over_Indian_Ocean.gif" alt="" /></a>
+                                        
+                                        </section>
+                                    </div>
+                                    <div class="6u">
+                                        <section>
+                                        	<a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Pacific_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Pacific.gif" alt="" /></a>
+                                        </section>
+                                    
+                                    </div>
+                                
+                                </div>
+								<!-- Feature #1 -->
 									<section>
-										<a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_EurAfrica_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_EurAfrica.gif" alt="" /></a>
-										<h2>Responsive You Say?</h2>
+										
+										<h2> </h2>
 										<p>
-											Yes! Halcyonic is built on the <a href="http://skeljs.org">skelJS</a>
-											framework, so it has full responsive support for desktop, tablet,
-											and mobile device displays.
+											With our network of sferic sensors we are producing regular maps of lightning activity over the entire Earth. 
+                                            Our map showing the entire world uses coloured spots to indicate lightning strokes (red stars inside an open circle are active WWLLN lightning sensor locations).  Click on the map for explanation.
+                                            (Notes: cloud data thanks to National Weather Service/Aviation Weather Center; blue overlay dots are WWLLN Lightning; Red circles are WWLLN receivers; Red line is the terminator)
 										</p>
 									</section>
 
 							</div>
-							<div class="3u">
-								
-								<!-- Feature #3 -->
-									<section>
-										<a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_over_Indian_Ocean_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_over_Indian_Ocean.gif" alt="" /></a>
-										<h2>License Info</h2>
-										<p>
-											Halcyonic is licensed under the <a href="http://html5up.net/license">CCA 3.0</a> license,
-											so use it for personal or commercial use as much as you like (just keep
-											the footer credit intact).
-										</p>
-									</section>
-
-							</div>
-							<div class="3u">
-								
-								<!-- Feature #4 -->
-									<section>
-										<a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Pacific_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Pacific.gif" alt="" /></a>
-										<h2>Volutpat etiam aliquam</h2>
-										<p>
-											Duis neque nisi, dapibus sed mattis quis, rutrum accumsan sed. Suspendisse 
-											eu varius nibh. Suspendisse vitae magna eget odio amet mollis.
-										</p>
-									</section>
-
-							</div>
+                            							
 						</div>
 					</div>
 				</div>
@@ -125,13 +132,10 @@
 									<section>
 										<header>
 											<h2>Who We Are</h2>
-											<h3>A subheading about who we are</h3>
 										</header>
-										<a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>
 										<p>
-											Duis neque nisi, dapibus sed mattis quis, rutrum accumsan sed. 
-											Suspendisse eu varius nibh. Suspendisse vitae magna eget odio amet mollis 
-											justo facilisis quis. Sed sagittis mauris amet tellus gravida lorem ipsum.
+											The WWLLN Management Team, lead by Prof Robert Holzworth of the University of Washington produced
+                                            these data and images with the cooperation of the universities and institutes which host the stations as listed on the <a href="hosts.shtml">hosts page</a>. 
 										</p>
 									</section>
 
@@ -141,16 +145,17 @@
 								<!-- Box #2 -->
 									<section>
 										<header>
-											<h2>What We Do</h2>
-											<h3>A subheading about what we do</h3>
+											<h2>WWLLN Research</h2>
 										</header>
-										<ul class="check-list">
-											<li>Sed mattis quis rutrum accum</li>
-											<li>Eu varius nibh suspendisse lorem</li>
-											<li>Magna eget odio amet mollis justo</li>
-											<li>Facilisis quis sagittis mauris</li>
-											<li>Amet tellus gravida lorem ipsum</li>
+										<ul class="link-list">
+											<li>Lightning climatology</li>
+											<li>VLF propagation</li>
+											<li>Hurricane lightning</li>
+											<li>Whistler waves</li>
 										</ul>
+                                        <p>
+                                            More research with WWLLN on the <a href="research.shtml">research page</a>.
+                                        </p>
 									</section>
 
 							</div>
@@ -159,26 +164,12 @@
 								<!-- Box #3 -->
 									<section>
 										<header>
-											<h2>What People Are Saying</h2>
-											<h3>And a final subheading about our clients</h3>
+											<h2>More information here</h2>
+											<h3>Subheading</h3>
 										</header>
-										<ul class="quote-list">
-											<li>
-												<img src="images/pic06.jpg" alt="" />
-												<p>"Neque nisidapibus mattis"</p>
-												<span>Jane Doe, CEO of UntitledCorp</span>
-											</li>
-											<li>
-												<img src="images/pic07.jpg" alt="" />
-												<p>"Lorem ipsum consequat!"</p>
-												<span>John Doe, President of FakeBiz</span>
-											</li>
-											<li>
-												<img src="images/pic08.jpg" alt="" />
-												<p>"Magna veroeros amet tempus"</p>
-												<span>Mary Smith, CFO of UntitledBiz</span>
-											</li>
-										</ul>
+										<p>
+                                            Text
+                                        </p>
 									</section>
 
 							</div>
