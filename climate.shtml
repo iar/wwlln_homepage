@@ -1,0 +1,192 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>WWLLN Lightning Climatology Animations</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<script src="js/jquery.min.js"></script>
+		<script src="js/config.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		</noscript>
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+        
+        <!--#include file="tracker.htm" -->
+        
+	</head>
+	<body class="subpage">
+	
+		<!-- Header -->
+        <div id="header-wrapper">
+			<!--#include file="header.htm" -->
+        </div>
+        
+		<!-- Content -->
+			<div id="content-wrapper">
+				<div id="content">
+					<div class="container">
+						<div class="row">
+							<div class="12u">
+							
+								<!-- Main Content -->
+									<section>
+										<header>
+											<h2>Global and Regional Lightning Climatology Based on WWLLN Data From 2008 to Present</h2>
+											<h3>These movies and plots were prepared by K. S. Virts working in collaboration with M. L. Hutchins, J. M. Wallace and R. H. Holzworth</h3>
+                                            <h4>Documentation of this work is in <a href="http://www.wwlln.net/climate/virts/Virts.etal.2013BAMS.pdf">Virts et al. (2013)</a></h4>
+                                            <h4>Please send comments to <a href="mailto:kvirts@uw.edu">kvirts@uw.edu</a> or <a href="mailto:bobholz@uw.edu">bobholz@uw.edu</a></h4>
+										</header>
+                                        
+                                        <h2>Introduction</h2>
+										<p>
+                                            The ground-based World-Wide Lightning Location Network (<a href="http://wwlln.net/">WWLLN</a>)
+                                            continuously monitors global lightning.
+                                            Below are links to lightning climatology maps and animations of its diurnal
+                                            cycle, based on four years (2008-2011) of WWLLN data. For all maps, units are
+                                            strokes km-2 yr-1; all months are included (unless otherwise specified); gray lines indicate the 500-m elevation contour; and the
+                                            lightning scale is logarithmic. These animations report stroke densities as detected by WWLLN and are not
+                                            corrected for relative detection efficiency. Comparisons between absolute intensities in
+                                            different continental regions, using this work, could be misleading.
+                                            However, regional patterns of diurnal variations are
+                                            relatively insensitive to geographical variations in detection efficiency.
+										</p>
+                                        <p>
+                                            See also WWLLN <a href="climate/clim/wwlln_sites.pdf">sensor locations</a>, with
+                                            colors indicating when each station was established (note that some sensors were in
+                                            place as early as 2004). Black stars indicate sensors added 2012-present.
+                                        </p>
+                                        
+                                        <h2>Global and continental lightning maps (1 x 1 degree resolution) </h2>
+										<p>
+											First, an <a href="climate/clim/wwlln_climatology_ocean.pdf">annual-mean map</a> of
+                                            global lightning that includes the full range of values of the frequency of occurrence of lightning and a corresponding
+                                            <a href="climate/elev/elev_global.pdf">elevation map</a> (you may need to adjust the size of your internet browser to view the whole map).
+                                            TRMM LIS/OTD also provides <a href="climate/clim/trmm_climatology.pdf">global lightning
+                                            coverage</a> , but WWLLN samples ~100 times as many strokes per year. The diurnal cycle of lightning can be illustrated by 
+                                            <a href="climate/clim/ltghr_all_ocean.mov">animations</a>
+                                            of hourly-mean lightning frequency. Limiting the color scale to the highest ~2
+                                            orders of magnitude brings out lightning enhancements near coastlines and mountain ranges: see the <a
+                                            href="climate/clim/wwlln_climatology_land.pdf">map</a> and <a
+                                            href="climate/clim/ltghr_all_land.mov">animation</a>.
+                                        </p>
+
+                                        <p>
+                                            Continent-scale animations: <a href="climate/clim/ltghr_all_namer.mov">North America</a>,
+                                            <a href="climate/clim/ltghr_all_samer.mov">South America</a>, <a
+                                            href="climate/clim/ltghr_all_afr.mov">Africa</a>, <a href="climate/clim/ltghr_all_eur.mov">Europe</a>,
+                                            <a href="climate/clim/ltghr_all_seasia.mov">Eastern Asia</a>, <a
+                                            href="climate/clim/ltghr_all_oceania.mov">Australasia</a>, and <a
+                                            href="climate/clim/ltghr_all_npole.mov">northern high latitudes</a>.
+                                        </p>
+
+                                        <p>
+                                            To directly compare the diurnal cycle from one region to another, see 
+                                            <a href="climate/clim/ltghr_all_loc.mov">this animation</a> of lightning frequency as a function of local time rather than UTC.
+										</p>
+                                        
+                                        <h2>Regional lightning animations (0.25 x 0.25 degree resolution)</h2>
+										<p>
+											This section includes links to
+                                            diurnal lightning animations for selected regions. For each region, time is expressed
+                                            in UTC and as local time at some city (indicated by a star) within the domain. Favorites are marked with
+                                            an *.
+                                        </p>
+                                        <div style="float: left; width: 50%;">
+                                            <ul class="link-list">
+                                                <li>Indonesia -- <a href="climate/clim/ltghr_all_ind.mov">animation</a>, <a href="climate/elev/elev_ind.pdf">elevation</a>*</li>
+                                                <li>Northern Australia -- <a href="climate/clim/ltghr_all_aus.mov">animation</a>, <a href="climate/elev/elev_aus.pdf">elevation</a></li>
+                                                <li>Southeastern Australia -- <a href="climate/clim/ltghr_all_saus.mov">animation</a>, <a href="climate/elev/elev_saus.pdf">elevation</a></li>
+                                                <li>South Pacific -- <a href="climate/clim/ltghr_all_spac.mov">animation</a>, <a href="climate/elev/elev_spac.pdf">elevation</a></li>
+                                                <li>Southeastern Asia -- <a href="climate/clim/ltghr_all_asia.mov">animation</a>, <a href="climate/elev/elev_asia.pdf">elevation</a></li>
+                                                <li>North Pacific -- <a href="climate/clim/ltghr_all_kuro.mov">animation</a>, <a href="climate/elev/elev_kuro.pdf">elevation</a></li>
+                                                <li>India -- <a href="climate/clim/ltghr_all_india.mov">animation</a>, <a href="climate/elev/elev_india.pdf">elevation</a></li>
+                                                <li>Southeastern United States -- <a href="climate/clim/ltghr_all_cusa.mov">animation</a>, <a href="climate/elev/elev_cusa.pdf">elevation</a></li>
+                                                <li>Gulf Stream -- <a href="climate/clim/ltghr_all_gstr.mov">animation</a>, <a href="climate/elev/elev_gstr.pdf">elevation</a></li>
+                                                <li>Gulf of Mexico/Caribbean -- <a href="climate/clim/ltghr_all_carib.mov">animation</a>, <a href="climate/elev/elev_carib.pdf">elevation</a></li>
+                                                <li>Central America -- <a href="climate/clim/ltghr_all_cam.mov">animation</a>, <a href="climate/elev/elev_cam.pdf">elevation</a>*</li>
+                                            </ul>
+                                        </div>
+                                        <div style="float: right; width: 50%;">
+                                            <ul class="link-list">
+                                                <li>Inter-Tropical Convergence Zone -- <a href="climate/clim/ltghr_all_itcz.mov">animation</a>, <a href="climate/elev/elev_itcz.pdf">elevation</a></li>
+                                                <li>Northern South America -- <a href="climate/clim/ltghr_all_sam.mov">animation</a>, <a href="climate/elev/elev_sam.pdf">elevation</a>*</li>
+                                                <li>Brazil -- <a href="climate/clim/ltghr_all_braz.mov">animation</a>, <a href="climate/elev/elev_braz.pdf">elevation</a></li>
+                                                <li>Central Andes -- <a href="climate/clim/ltghr_all_and.mov">animation</a> (4000-m elevation contour also shown), <a href="climate/elev/elev_and.pdf">elevation</a>*</li>
+                                                <li>Argentina -- <a href="climate/clim/ltghr_all_arg.mov">animation</a>, <a href="climate/elev/elev_arg.pdf">elevation</a></li>
+                                                <li>Mediterranean -- <a href="climate/clim/ltghr_all_med.mov">animation</a>, <a href="climate/elev/elev_med.pdf">elevation</a></li>
+                                                <li>Persian Gulf -- <a href="climate/clim/ltghr_all_pgulf.mov">animation</a>, <a href="climate/elev/elev_pgulf.pdf">elevation</a></li>
+                                                <li>Red Sea and eastern Africa -- <a href="climate/clim/ltghr_all_red.mov">animation</a>, <a href="climate/elev/elev_red.pdf">elevation</a></li>
+                                                <li>Southern Africa -- <a href="climate/clim/ltghr_all_safr.mov">animation</a>, <a href="climate/elev/elev_safr.pdf">elevation</a></li>
+                                                <li>Western Africa -- <a href="climate/clim/ltghr_all_wafr.mov">animation</a>, <a href="climate/elev/elev_wafr.pdf">elevation</a>*</li>
+                                            </ul>
+                                        </div>
+                                            &nbsp;
+										</p>
+                                
+                                        <h2>High-resolution regional lightning animations (0.1 x 0.1 degree resolution)</h2>
+										<p>
+                                            The diurnal cycle of lightning is particularly fascinating in
+                                            regions with both coastlines and topography, where both land/sea breezes and
+                                            mountain/valley breezes modulate the convection. Here are high-resolution hourly
+                                            lightning animations for a few such regions. 
+                                            For each animation, local time is listed for some city (indicated by a star) in the domain.
+                                            Favorites are marked with an *.
+                                        </p>
+
+                            
+                                        </p>
+                                        <div style="float: left; width: 50%;">
+                                            <ul class="link-list">
+                                                <li>Sumatra -- <a href="climate/clim/ltghr_all_sumatra.mov">animation</a>, <a href="climate/elev/elev_sumatra.pdf">elevation</a>*</li>
+                                                <li>Borneo -- <a href="climate/clim/ltghr_all_borneo.mov">animation</a>, <a href="climate/elev/elev_borneo.pdf">elevation</a></li>
+                                                <li>Java -- <a href="climate/clim/ltghr_all_java.mov">animation</a>, <a href="climate/elev/elev_java.pdf">elevation</a></li>
+                                                <li>Celebes -- <a href="climate/clim/ltghr_all_celeb.mov">animation</a>, <a href="climate/elev/elev_celeb.pdf">elevation</a></li>
+                                                <li>New Guinea -- <a href="climate/clim/ltghr_all_nguin.mov">animation</a>, <a href="climate/elev/elev_nguin.pdf">elevation</a>*</li>
+                                                <li>Philippines -- <a href="climate/clim/ltghr_all_phil.mov">animation</a>, <a href="climate/elev/elev_phil.pdf">elevation</a></li>
+                                                <li>Indochina -- <a href="climate/clim/ltghr_all_indo.mov">animation</a>, <a href="climate/elev/elev_indo.pdf">elevation</a></li>
+                                            </ul>
+                                        </div>
+                                        <div style="float: right; width: 50%;">
+                                            <ul class="link-list">
+                                                <li>Southern India and Sri Lanka -- <a href="climate/clim/ltghr_all_sri.mov">animation</a>, <a href="climate/elev/elev_sri.pdf">elevation</a></li>
+                                                <li>Hispaniola -- <a href="climate/clim/ltghr_all_hisp.mov">animation</a>, <a href="climate/elev/elev_hisp.pdf">elevation</a></li>
+                                                <li>Yucatan/Guatemala -- <a href="climate/clim/ltghr_all_yuc.mov">animation</a>, <a href="climate/elev/elev_yuc.pdf">elevation</a></li>
+                                                <li>Northern Andes -- <a href="climate/clim/ltghr_all_marac.mov">animation</a>, <a href="climate/elev/elev_marac.pdf">elevation</a>*</li>
+                                                <li>Peru/Bolivia -- <a href="climate/clim/ltghr_all_bol.mov">animation</a> (4000-m elevation contour also shown), <a href="climate/elev/elev_bol.pdf">elevation</a></li>
+                                                <li>Madagascar -- <a href="climate/clim/ltghr_all_mad.mov">animation</a>, <a href="climate/elev/elev_mad.pdf">elevation</a></li>
+                                                <li>Central Africa -- <a href="climate/clim/ltghr_all_cafr_td.mov">animation</a>, <a href="climate/elev/elev_cafr.pdf">elevation</a>*</li>
+                                            </ul>
+                                        </div>
+										</p>
+
+                                        <h2> Acknowledgements </h2>
+										<p>
+											We thank the <a href="http://wwlln.net">World Wide Lightning Location
+                                            Network</a>, a collaboration among over 50 universities and institutions, for
+                                            providing the lightning location data used in these plots. The <a
+                                            href="http://thunder.msfc.nasa.gov/data/index.html">TRMM LIS/OTD climatology</a>
+                                            was obtained from NASA's <a href="http://thunder.msfc.nasa.gov/">Global
+                                            Hydrology and Climate Center</a>. <a href="http://www.ngdc.noaa.gov/mgg/coast/">Coastline</a>
+                                            and <a href="http://www.ngdc.noaa.gov/mgg/topo/globeget.html">elevation</a>
+                                            data were obtained from the <a href="http://www.ngdc.noaa.gov/">National
+                                            Geophysical Data Center</a>.					
+										</p>
+									</section>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		<!-- Footer -->
+            <!--#include file="footer.htm" -->
+
+	</body>
+</html>
