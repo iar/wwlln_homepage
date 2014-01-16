@@ -34,7 +34,25 @@
 							
                                 <p>Recent News</p>
                                 
-                                <!--#include file="news.htm" -->
+                                <ul class="link-list">
+                                    
+                                    <!-- Use php to grab first 4 items from the news.htm file -->
+                                    <!-- .htaccess needs to allow php in .shtml files -->
+                                    
+                                    <?php
+    
+                                        $news = file("news_list.htm");
+        
+                                        print $news[0]; print "\n";
+                                        print $news[1]; print "\n";
+                                        print $news[2]; print "\n";
+                                        print $news[3]; print "\n";
+    
+                                    ?>
+                                
+                                    <li><a href="news.shtml">News Archive</a></li>
+                                    
+                                </ul>
 
 							</div>
 							<div class="6u">
