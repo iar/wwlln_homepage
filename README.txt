@@ -1,10 +1,7 @@
 WWLLN Website
 
-Content in .htm files are reproduced elsewhere with the  <!--#include file="" --> command.  In these cases edit the .htm file directly
-instead of the actual shtml file.
-
-.html files are used to redirect to the corresponding .shtml.  The .shtml allows for in line scripts such as the include command above.
-
+Content in .htm files are reproduced elsewhere with PHP scripts.  In these cases edit the .htm file directly
+instead of the actual html file.
 
 
 Base HTML5 Template created by:
