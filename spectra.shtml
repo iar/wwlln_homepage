@@ -17,14 +17,27 @@
 		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
         
-        <!--#include file="tracker.htm" -->
+        <?php
+
+            $file = file_get_contents("tracker.htm");
+
+            echo $file; print "\n";
+
+        ?>
         
 	</head>
 	<body class="subpage">
 	
 		<!-- Header -->
         <div id="header-wrapper">
-			<!--#include file="header.htm" -->
+            
+            <?php
+
+                $file = file_get_contents("header.htm");
+
+                echo $file; print "\n";
+
+            ?>
         </div>
         
 		<!-- Content -->
@@ -48,7 +61,13 @@
                                             (or click on its caption to open it on a new page).
 										</p>
 										
-                                        <!--#include file="spectra_list.htm" -->
+                                       <?php
+                            
+                                            $file = file_get_contents("spectra_list.htm");
+                            
+                                            echo $file; print "\n";
+                            
+                                        ?> 
                                         
 									</section>
 
@@ -59,7 +78,13 @@
 			</div>
 
 		<!-- Footer -->
-            <!--#include file="footer.htm" -->
+            <?php
 
+                $file = file_get_contents("footer.htm");
+
+                echo $file; print "\n";
+
+            ?>
+        
 	</body>
 </html>
