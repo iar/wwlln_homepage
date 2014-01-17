@@ -1,3 +1,6 @@
 [submodule "map"]
 	path = map
 	url = git@github.com:mlhutchins/lightning.git
+[submodule "map_demo"]
+	path = map_demo
+	url = git@github.com:mlhutchins/lightning.git
