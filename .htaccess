@@ -1,2 +1,7 @@
 AddType application/x-httpd-php .html
 AddType application/x-httpd-php .shtml
+
+<Files .htaccess>
+Order Allow,Deny
+Deny from all
+</Files>
