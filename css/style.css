@@ -32,15 +32,6 @@
 		margin: 0 0 2em 0;
 	}
 
-	a
-	{
-		text-decoration: underline;
-	}
-	
-	a:hover
-	{
-		text-decoration: none;
-	}
 
 	section > :last-child, .last-child
 	{
@@ -50,6 +41,18 @@
         font-family: 'Monotype.com', Courier New, monospace;
         font-size:  0.7em;
     }
+
+/* Links */
+
+    a
+    {
+		text-decoration: underline;
+	}
+
+    a:link {color:rgb(250,150,150);}    /* unvisited link */
+    a:visited {color:rgb(200,100,100);} /* visited link */
+    a:hover {color:rgb(200,100,100);}   /* mouse over link */
+    a:active {color:rgb(100,100,100);}  /* selected link */
 
 /* Multi-use */
 
