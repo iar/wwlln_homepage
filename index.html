@@ -30,6 +30,8 @@
 		<!-- Header -->
 			<div id="header-wrapper">
 
+                <!-- Header -->
+                
                 <?php
 
                     $file = file_get_contents("header.htm");
@@ -37,6 +39,8 @@
                     echo $file; print "\n";
 
                 ?>
+                
+                <!-- Front Page News and Image section -->
                 
 				<div id="banner">
 					<div class="container">
@@ -77,30 +81,50 @@
 				</div>
 			</div>
 
-		<!-- Features -->
+		<!-- Features (Dark Grey, Main Content) -->
 			<div id="features-wrapper">
 				<div id="features">
 					<div class="container">
+                        
+                        <!-- Satellite Image Row -->
 						<div class="row">
+
+                            <div class="3u">
+                                <section>
+                                    <a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Americas_BIG.gif" class="bordered-feature-image">
+                                        <img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Americas.gif" alt="" /></a>
+                                </section>
+                            </div>
+                            
+                            <div class="3u">
+                                <section>
+                                    <a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_EurAfrica_BIG.gif" class="bordered-feature-image">
+                                        <img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_EurAfrica.gif" alt="" /></a>
+                                </section>
+                            </div>
+                                                        
+                            <div class="3u">
+                                <section>
+                                    <a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_over_Indian_Ocean_BIG.gif" class="bordered-feature-image">
+                                        <img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_over_Indian_Ocean.gif" alt="" /></a>
+                                </section>
+                            </div>
+                            
+                            <div class="3u">
+                                <section>
+                                    <a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Pacific_BIG.gif" class="bordered-feature-image">
+                                        <img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Pacific.gif" alt="" /></a>
+                                </section>
+                            </div>
+                            							
+						</div>
+                        
+                        <!-- Text Row -->
+                        
+                        <div class="row">
 							<div class="6u">
 							
-                                <div class="row">
-                                
-                                    <div class="6u">
-                                        <section>
-                                            <a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Americas_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Americas.gif" alt="" /></a>
-                                        
-                                        </section>
-                                    </div>
-                                    <div class="6u">
-                                        <section>
-                                        	<a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_EurAfrica_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_EurAfrica.gif" alt="" /></a>
-                                        </section>
-                                    
-                                    </div>
-                                
-                                </div>
-								<!-- Feature #1 -->
+								<!-- Main Text 1 -->
 									<section>
 										
 										<h2>Welcome to WWLLN</h2>
@@ -109,6 +133,7 @@
                                             Most ground-based observations in the VLF band are dominated by impulsive signals from lightning discharges called “sferics”. 
                                             Significant radiated electromagnetic power exists from a few hertz to several hundred megahertz, with the bulk of the energy radiated at VLF.
 										</p>
+                                        
 									</section>
 
 							</div>
@@ -116,36 +141,24 @@
                             
                             <div class="6u">
 							
-                                <div class="row">
-                                
-                                    <div class="6u">
-                                        <section>
-                                            <a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_over_Indian_Ocean_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_over_Indian_Ocean.gif" alt="" /></a>
-                                        
-                                        </section>
-                                    </div>
-                                    <div class="6u">
-                                        <section>
-                                        	<a href="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Pacific_BIG.gif" class="bordered-feature-image"><img src="http://wwlln.net/WWLLN_movies/Movie_of_Lightning_in_Pacific.gif" alt="" /></a>
-                                        </section>
-                                    
-                                    </div>
-                                
-                                </div>
-								<!-- Feature #1 -->
+								<!-- Main Text 2 -->
 									<section>
 										
 										<h2> </h2>
 										<p>
 											With our network of sferic sensors we are producing regular maps of lightning activity over the entire Earth. 
-                                            Our map showing the entire world uses coloured spots to indicate lightning strokes (red stars inside an open circle are active WWLLN lightning sensor locations).  Click on the map for explanation.
-                                            (Notes: cloud data thanks to National Weather Service/Aviation Weather Center; blue overlay dots are WWLLN Lightning; Red circles are WWLLN receivers; Red line is the terminator)
+                                            Our map showing the entire world uses coloured spots to indicate lightning strokes (red stars inside an open 
+                                            circle are active WWLLN lightning sensor locations).  Click on the map for explanation.
+                                            (Notes: cloud data thanks to National Weather Service/Aviation Weather Center; blue overlay dots are WWLLN Lightning;
+                                            Red circles are WWLLN receivers; Red line is the terminator)
 										</p>
+                                        
 									</section>
 
 							</div>
-                            							
+                            
 						</div>
+                        
 					</div>
 				</div>
 			</div>
