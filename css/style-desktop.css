@@ -64,13 +64,30 @@
 		position: relative;
 	}
 
-		#header h1
+		#header h0
 		{
 			position: absolute;
 			left: 0;
-			bottom: 35px;
+			bottom: 40px;
 			font-family: 'Perpetua', sans-serif;
-			font-size: 4em;
+			font-size: 5em;
+		}
+	
+			#header h0 a
+			{
+				color: #fff;
+				text-decoration: none;
+			}
+
+
+		#header h1
+		{
+			position: absolute;
+            color: #fff;
+			left: -20px;
+			bottom: -5px;
+			font-family: 'Perpetua', sans-serif;
+			font-size: 2em;
 		}
 	
 			#header h1 a
@@ -89,7 +106,7 @@
 	
 			#header nav a
 			{
-				color: #c6c8c8;
+				color: #fff;
 				text-decoration: none;
 				font-size: 1.4em;
 				margin-left: 60px;
