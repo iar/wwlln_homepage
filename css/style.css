@@ -1,5 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,200);
-@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Gilda+Display);
 
 /*
 	Halcyonic 3.1 by HTML5 UP
@@ -20,11 +19,10 @@
 
 	body, input, textarea, select
 	{
-		color: #474f51;
-		font-size: 13.5pt;
-		font-family: 'Yanone Kaffeesatz';
-		line-height: 1.85em;
-		font-weight: 300;
+		color: #363636;
+		font-size: 14pt;
+		font-family: 'Gilda+Display';
+		line-height: 1.5em;
 	}
 
 	ul, ol, p, dl
