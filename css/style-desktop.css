@@ -83,9 +83,9 @@
 		#header h1
 		{
 			position: absolute;
-            color: #fff;
+            color: #eee;
 			left: -20px;
-			bottom: -5px;
+			bottom: 0px;
 			font-family: 'Perpetua', sans-serif;
 			font-size: 2em;
 		}
@@ -146,7 +146,7 @@
 
 	#features
 	{
-		color: #a0a8ab;
+		color: #eee;
 	}
 	
 		#features h2
