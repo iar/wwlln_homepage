@@ -36,12 +36,12 @@
                         <!-- Nav -->
                         <div class="8u">
                             <nav id="nav">
-                                <a href="index.html">Home</a>
-                                <a href="network.html">The Network</a>
-                                <a href="research.html">Research</a>
-                                <a href="data.html">Data</a>
-                                <a href="hosts.html">Hosts</a>
-                                <a href="blog/">Blog</a>
+                                <a href="<?php echo site_url(); ?>/index.html">Home</a>
+                                <a href="<?php echo site_url(); ?>/network.html">The Network</a>
+                                <a href="<?php echo site_url(); ?>/research.html">Research</a>
+                                <a href="<?php echo site_url(); ?>/data.html">Data</a>
+                                <a href="<?php echo site_url(); ?>/hosts.html">Hosts</a>
+                                <a href="<?php echo site_url(); ?>/blog/">Blog</a>
                             </nav>
 
                         </div>
