@@ -5,18 +5,15 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-		<script src="http://wwlln.local/js/jquery.min.js"></script>
-		<script src="http://wwlln.local/js/config.js"></script>
-		<script src="http://wwlln.local/js/skel.min.js"></script>
-		<script src="http://wwlln.local/js/skel-panels.min.js"></script>
-
+		<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/jquery.min.js"></script>
+		<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/config.js"></script>
+		<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/skel.min.js"></script>
+        <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/skel-panels.min.js"></script>
+        
         <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/skel-noscript.css" type="text/css" media="screen" />
         <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/style.css" type="text/css" media="screen" />
         <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/style-desktop.css" type="text/css" media="screen" />    
-        
-		<!--[if lte IE 9]><link rel="stylesheet" href="http://wwlln.local/css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><script src="http://wwlln.local/js/html5shiv.js"></script><![endif]-->
-        
+               
         <?php add_googleanalytics() ?>
         
 	</head>
