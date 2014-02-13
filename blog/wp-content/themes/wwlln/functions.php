@@ -13,4 +13,8 @@
         </script>
     <?php }
 
+    // Remove Wordpress automatically wrapping HTML content with <p> and <br> tags
+    remove_filter( 'the_content', 'wpautop' );
+    remove_filter( 'the_excerpt', 'wpautop' );
+
  ?>

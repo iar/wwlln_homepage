@@ -53,5 +53,12 @@
 
                         </div>
                     </div>
-				</header>
+				</header>'
+                
+                <?php 
+                if (is_page_template( 'page-front.php')){
+                    get_template_part( 'page','front-header');
+                } ?> 
+                
+                
             </div>
