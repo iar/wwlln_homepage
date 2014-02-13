@@ -20,15 +20,24 @@
                                         </div>
                                         
                                         <div class="post-content">
+                                            <br>
                                             <?php the_content(); ?>
                                         </div>
                                     </div><!-- .post -->
-
-                                <?php comments_template(); ?>	
-                                    
                                 </section>
                             </div>
                         </div>
+                        
+                        <div class="row">
+							<div class="12u">
+                                <section>
+                                    <div>
+                                        <?php comments_template(); ?>	
+                                    </div>     
+                                </section>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
 			</div>
