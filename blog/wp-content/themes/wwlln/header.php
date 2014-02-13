@@ -9,11 +9,11 @@
 		<script src="http://wwlln.local/js/config.js"></script>
 		<script src="http://wwlln.local/js/skel.min.js"></script>
 		<script src="http://wwlln.local/js/skel-panels.min.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="http://wwlln.local/css/skel-noscript.css" />
-			<link rel="stylesheet" href="http://wwlln.local/css/style.css" />
-			<link rel="stylesheet" href="http://wwlln.local/css/style-desktop.css" />
-		</noscript>
+
+        <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/skel-noscript.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/style.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/style-desktop.css" type="text/css" media="screen" />    
+        
 		<!--[if lte IE 9]><link rel="stylesheet" href="http://wwlln.local/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><script src="http://wwlln.local/js/html5shiv.js"></script><![endif]-->
         
