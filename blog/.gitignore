@@ -1,3 +1,9 @@
+# Vi swap files
+*.swp
+
+# Compressed files
+*.bz2
+
 # Exclude these files from the git repo
 wp-content/backup/*
 wp-content/cache/*
