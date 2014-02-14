@@ -58,6 +58,8 @@
                 <?php 
                 if (is_page_template( 'page-front.php')){
                     get_template_part( 'page','front-header');
+                } else if (is_page_template( 'page-map.php')){
+                    get_template_part( 'page','map-header');
                 } ?> 
                 
                 
