@@ -10,8 +10,7 @@
 								<!-- Main Content -->
 									<section>
 										<header>
-											<a href="http://wwlln.local/blog/"><h2>The WWLLN Blog</h2></a>
-											<h3>Blog Subtitle</h3>
+											<h2>The WWLLN Blog</h2>
 										</header>
 
                                         <?php while ( have_posts() ) : the_post() ?>
