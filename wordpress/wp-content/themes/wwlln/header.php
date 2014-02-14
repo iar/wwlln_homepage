@@ -11,7 +11,7 @@
         <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/skel-panels.min.js"></script>
         
         <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/skel-noscript.css" type="text/css" media="screen" />
-        <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/style.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/style.css" type="text/css" media="screen" />
         <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/style-desktop.css" type="text/css" media="screen" />    
                
         <?php add_googleanalytics() ?>
