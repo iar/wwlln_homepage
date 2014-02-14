@@ -3,7 +3,7 @@ Order Allow,Deny
 Deny from all
 </Files>
 
-
+# Below needed for wordpress engine to work out of the wordpress folder
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /blog/
