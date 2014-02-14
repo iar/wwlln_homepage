@@ -40,7 +40,7 @@
 							<div class="6u">
 								
 								<!-- Banner Image -->
-									<a href="network_maps.html" class="bordered-feature-image"><img src="http://wwlln.net/L_plot_global_map.jpg" alt="" /></a>
+									<a href="network_maps" class="bordered-feature-image"><img src="http://wwlln.net/L_plot_global_map.jpg" alt="" /></a>
 							
 							</div>
 						</div>
