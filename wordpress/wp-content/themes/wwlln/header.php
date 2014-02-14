@@ -29,14 +29,14 @@
 						<div class="4u">
 						
 							<!-- Logo -->
-                            <h0><a href="<?php echo site_url(); ?>" id="logo">WWLLN</a></h0>
+                            <h0><a href="<?php echo site_url(); ?>/../" id="logo">WWLLN</a></h0>
                             
 						</div>
                         
                         <!-- Nav -->
                         <div class="8u">
                             <nav id="nav">
-                                <a href="<?php echo site_url(); ?>/">Home</a>
+                                <a href="<?php echo site_url(); ?>/../">Home</a>
                                 <a href="<?php echo site_url(); ?>/network">The Network</a>
                                 <a href="<?php echo site_url(); ?>/research">Research</a>
                                 <a href="<?php echo site_url(); ?>/data">Data</a>
