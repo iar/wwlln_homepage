@@ -14,7 +14,7 @@
 
 	body
 	{
-		background: #D4D9DD url('images/bg03.jpg');
+		background: #D4D9DD url('css/images/bg03.jpg');
 	}
 
 	body, input, textarea, select
@@ -156,7 +156,7 @@
 	.bordered-feature-image
 	{
 		display: block;
-		background: #fff url('images/bg04.png');
+		background: #fff url('css/images/bg04.png');
 		padding: 5px;
 		box-shadow: 3px 3px 3px 1px rgba(0,0,0,0.15);
 		margin: 0 0 1.5em 0;

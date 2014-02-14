@@ -12,7 +12,7 @@
 
 	body
 	{
-		min-width: 1200px;
+		min-width: 800px;
 	}
 
 	section:last-child
@@ -103,7 +103,7 @@
 			bottom: 35px;
 			font-weight: 200;
 		}
-	
+
 			#header nav a
 			{
 				color: #fff;
