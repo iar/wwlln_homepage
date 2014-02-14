@@ -1,5 +1,5 @@
 <?php
-    add_action('wp_footer', 'add_googleanalytics');
+    add_action('add_googleanalytics', 'the_slug');
     function add_googleanalytics() { ?>
         <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -12,6 +12,13 @@
 
         </script>
     <?php }
+
+	function the_slug($echo=true){
+          $slug = basename(get_permalink());
+          $slug = apply_filters('slug_filter', $slug);
+          return $slug;
+    }
+
 
     // Remove Wordpress automatically wrapping HTML content with <p> and <br> tags
     remove_filter( 'the_content', 'wpautop' );
