@@ -8,11 +8,11 @@
 
         <!-- Load Day-Night Terminator Code -->
         <script type="text/javascript"
-            src="/<?php echo the_slug(); ?>/js/daynightoverlay.js">
+            src="<?php echo get_option("siteurl"); ?>/../<?php echo the_slug(); ?>/js/daynightoverlay.js">
         </script>
 
         <!-- Load WWLLN lightning map -->
         <script type='text/javascript'
-            src="/<?php echo the_slug(); ?>/js/lightning.js">
+            src="<?php echo get_option("siteurl"); ?>/../<?php echo the_slug(); ?>/js/lightning.js">
         </script>
         
