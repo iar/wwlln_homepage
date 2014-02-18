@@ -1,3 +1,4 @@
+*.bak.sql.bz2
 old
 *swp
 *.log
