@@ -1,7 +1,13 @@
-AddType application/x-httpd-php .html
-AddType application/x-httpd-php .shtml
-
 <Files .htaccess>
 Order Allow,Deny
 Deny from all
 </Files>
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
