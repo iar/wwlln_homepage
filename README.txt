@@ -1,7 +1,12 @@
 WWLLN Website
 
-Content in .htm files are reproduced elsewhere with PHP scripts.  In these cases edit the .htm file directly
-instead of the actual html file.
+The bulk of the content is powered through Wordpress using the custom WWLLN theme that replicates the HTML5 template
+made by Halcyonic (see below).  Several pages (hosts, publications, spectra) generate part of their content
+dynamically through the flat .htm text files in the root directory.  The pages for the lightning maps are submodules
+of the lightning repository to keep those projects separate.
+
+
+----------------
 
 
 Base HTML5 Template created by:
