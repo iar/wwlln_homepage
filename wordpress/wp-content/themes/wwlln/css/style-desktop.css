@@ -60,7 +60,7 @@
 
 	#header
 	{
-		min-height: 155px;
+		min-height: 120px;
 		position: relative;
 	}
 
@@ -68,7 +68,7 @@
 		{
 			position: absolute;
 			left: 0;
-			bottom: 40px;
+			bottom: 50px;
             font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
             font-size: 5em;
 		}
@@ -85,7 +85,7 @@
 			position: absolute;
             color: #eee;
 			left: -20px;
-			bottom: 0px;
+			bottom: -5px;
             font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
 			font-size: 2em;
 		}
@@ -100,7 +100,7 @@
 		{
 			position: absolute;
 			right: 0;
-			bottom: 35px;
+			bottom: 20px;
 			font-weight: 200;
 		}
 
