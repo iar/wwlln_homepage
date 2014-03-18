@@ -1,10 +1,10 @@
 WWLLN Website
+=========
 
-The bulk of the content is powered through Wordpress using the custom WWLLN theme that replicates the HTML5 template
-made by Halcyonic (see below).  Several pages (hosts, publications, spectra) generate part of their content
-dynamically through the flat .htm text files in the root directory.  The pages for the lightning maps are submodules
-of the lightning repository to keep those projects separate.
+The bulk of the content is powered through Wordpress using the custom WWLLN theme that replicates the HTML5 template made by Halcyonic (see below).  Several pages (hosts, publications, spectra) generate part of their content
+dynamically through the flat .htm text files in the root directory.  The pages for the lightning maps are submodules of the lightning repository to keep those projects separate.
 
+The website is currently hosted at http://wwlln.net/new/
 
 ----------------
 
